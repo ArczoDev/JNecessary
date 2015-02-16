@@ -14,12 +14,10 @@ Eclipse:
  - Then right click on the jar and hover over "Build Path".
  - It will bring up a menu. Once this is has been opened click on the item that says "Add to build path"
 
-We_will_be_bringing_more_ide_instructions_soon
-
 Links
 --------
  - Jar Download Mirror: arczo.com/jnec/v01a/JNecessaryv01a.jar
  
 License
 --------
-[Read the license here!](license.md)
+[Read the license here!](license.text)
