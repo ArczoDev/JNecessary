@@ -1,0 +1,3 @@
+NEED TO IMPLEMENT:
+Finish fractions math.
+Add more to encryption packages. E.g. AES or Blowfish.
