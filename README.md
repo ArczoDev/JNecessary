@@ -14,7 +14,6 @@ Here some of the things that we at ArczoDev are planning to add are:
  - Improved rounding
  - More Encryption classes (e.g. Class for all AES based encryption)
  - Maths Interpreter (this may be another project depending on the complexity of this)
- - Prime Number Math
 
 If you would like to suggest some features then feel free to send the creator of the framework an email at jon@arczo.com
 
@@ -25,6 +24,7 @@ Current Features
  - Basic Fraction Math (incomplete)
  - Faster calculations of things such as square root and powers (compared to the standard Java maths framework)
  - MD5 Hash Creation
+ - Prime Number Math
 
 How to use
 -----------
@@ -37,7 +37,7 @@ Eclipse:
 
 Links
 --------
- - Jar Download Mirror: http://arczo.com/jnec/v01a/JNecessaryv01a.jar
+ - Jar Lastest Version Download: http://arczo.com/jnec/v02a/JNecessaryv02a.jar
  
 License
 --------
