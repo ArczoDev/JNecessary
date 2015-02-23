@@ -303,15 +303,4 @@ public class BasicMath {
         int calc = x - y;
         return abs(calc);
     }
-
-
-    public static int roof(int num) {
-        // TODO: Get ceiling algorithm
-        return 0;
-    }
-
-    public static int floor(int num) {
-        // TODO: Get flooring algorithm.
-        return 0;
-    }
 }
