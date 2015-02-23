@@ -42,4 +42,4 @@ Links
  
 License
 --------
-[Read the license here!](license.txt)
+[Read the license here!](LICENSE.txt)
