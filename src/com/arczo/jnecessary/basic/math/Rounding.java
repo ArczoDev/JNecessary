@@ -13,6 +13,11 @@ public class Rounding {
 	
 	private Rounding() { }
 	
+	/**
+	 * This method rounds all the numbers up to a full number
+	 * @param n The number to round
+	 * @return Rounded number.
+	*/
 	public static double ceil(double n) {
 		String str = Double.toString(n);
 		List<String> dlist = new  ArrayList<String>();
@@ -34,6 +39,12 @@ public class Rounding {
 	
 	}
 	
+	/**
+	 * This method rounds the number down to a full number
+	 * Note: This method may not work in the future. May need to be changed in future updates.
+	 * @param Number to round
+	 * @return Rounded number
+	*/
 	public static double floor(double n) {
 		return (double)(int)n;
 	}
